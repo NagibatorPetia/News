@@ -27,4 +27,4 @@ Open the browser tab for http://localhost:**** (**** - your server address, 8081
 
 Congratulations, you got access to the site and its server!
 
-If you have any difficulties or problems, check out this tutorial for more detailed tutorials.
+If you have any difficulties or problems, check out this tutorial for more detailed tutorials: https://codelabs.developers.google.com/codelabs/workbox-lab/#0
