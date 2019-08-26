@@ -1,33 +1,30 @@
-# Workbox Lab
+News
 
-In this codelab, you’ll use [Workbox](https://workboxjs.org/) to convert a web site into a Progressive Web App with offline functionality and fast performance. Workbox allows you to create production quality service workers that follow best practices and handle corner cases, making your development process simpler and your web app more reliable.
+This is a project consisting of a site in which there are pages. Also on all pages there is animation, conscious using JavaScript and not a standard CSS design.
 
-## Getting started
+It contains informative pages, which, thanks to the "flexible" interface, are very convenient to work with.
+To work with the site code, you need to have some knowledge of HTML-5, JavaScript and CSS, which is a repulsive factor for this project.
 
-Follow the [Google Codelabs instructions](https://codelabs.developers.google.com/codelabs/workbox-lab/index.html?index=..%2F..%2Findex#0).
+To start working with the Site you need:
 
-## Note
+1. Basic knowledge of HTML-5, JavaScript, CSS
 
-All images are CCO
+2. Access to the terminal (console), stable Internet
 
-## More resources
+3. Application for editing code.
 
-* [PWA training materials](https://developers.google.com/web/ilt/pwa/)
+4. Access to the Git library and Workbox library
 
-## License
+First you need to download the code, for this open the terminal and enter this command: git clone https://github.com/NagibatorPetia/News.git
 
-Copyright 2018 Google Inc.
+Enter this command in the terminal: 
+npm install
+npm install --global workbox-cli
+npm run build
+npm run start
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Open the browser tab for http://localhost:**** (**** - your server address, 8081 for example)
 
-    http://www.apache.org/licenses/LICENSE-2.0
+Congratulations, you got access to the site and its server!
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-This is not an official Google product.
+If you have any difficulties or problems, check out this tutorial for more detailed tutorials.
