@@ -1,11 +1,11 @@
-News
+# News
 
 This is a project consisting of a site in which there are pages. Also on all pages there is animation, conscious using JavaScript and not a standard CSS design.
 
 It contains informative pages, which, thanks to the "flexible" interface, are very convenient to work with.
 To work with the site code, you need to have some knowledge of HTML-5, JavaScript and CSS, which is a repulsive factor for this project.
 
-To start working with the Site you need:
+# To start working with the Site you need:
 
 1. Basic knowledge of HTML-5, JavaScript, CSS
 
@@ -25,6 +25,6 @@ npm run start
 
 Open the browser tab for http://localhost:**** (**** - your server address, 8081 for example)
 
-Congratulations, you got access to the site and its server!
+# Congratulations, you got access to the site and its server!
 
 If you have any difficulties or problems, check out this tutorial for more detailed tutorials: https://codelabs.developers.google.com/codelabs/workbox-lab/#0
