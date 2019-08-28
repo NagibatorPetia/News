@@ -1,5 +1,5 @@
 
-# News (Underline)
+# News
 
 This is a project consisting of a site in which there are pages. Also on all pages there is animation, conscious using JavaScript and not a standard CSS design.
 
@@ -8,13 +8,13 @@ To work with the site code, you need to have some knowledge of HTML-5, JavaScrip
 
 ## To start working with the Site you need:
 
-1. Basic knowledge of HTML-5, JavaScript, CSS
+- Basic knowledge of HTML-5, JavaScript, CSS
 
-2. Access to the terminal (console), stable Internet
+- Access to the terminal (console), stable Internet
 
-3. Application for editing code.
+- Application for editing code.
 
-4. Access to the Git library and Workbox library
+- Access to the Git library and Workbox library
 
 First you need to download the code, for this open the terminal and enter this command: git clone https://github.com/NagibatorPetia/News.git
 
